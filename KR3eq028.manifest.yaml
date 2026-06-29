@@ -1,0 +1,1011 @@
+canonical_identifier: bkk:krp/KR3eq028/v1
+canonical_location: https://kanripo.org/bkk/KR3eq028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫旨緒餘
+  identifiers:
+    krp: KR3eq028
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq028.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq028_000.yaml, hash: 'sha256:300eb1690395d6cbec2ea580138779a4c4e32ea3a4c61ab93880fae5f05334c5'}
+  - {seq: 1, filename: KR3eq028_001.yaml, hash: 'sha256:d91e574d9480b097732d38ff1a0c5b238bf6dbab80411f25aeacfad62050e2f5'}
+  - {seq: 3, filename: KR3eq028_003.yaml, hash: 'sha256:fc2ae716d59bdabfbbda574a895692d8abec20884ec22bb8759388601a23d853'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq028_000.markers.yaml, hash: 'sha256:9a1f32e5a97658468256636d2100982df7d96fdb43a29cd11e0b143807620086'}
+  - {seq: 1, role: markers, filename: assets/KR3eq028_001.markers.yaml, hash: 'sha256:5af883ef9c493bd75d3d4c9786c532372038b2ef03f27f5d02f8ab1a31459a0e'}
+  - {seq: 3, role: markers, filename: assets/KR3eq028_003.markers.yaml, hash: 'sha256:9b1e4b2d7099ff436f6df1bb14616f73138a2bb9225a3e250e3b89b05c463ec3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq028_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 712
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 27176
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 209
+  label: 一太極圖抄引
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d3
+    span:
+    - body
+    - 209
+    - 213
+  label: 二太極圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d4
+    span:
+    - body
+    - 213
+    - 625
+  label: 三太極圖說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d5
+    span:
+    - body
+    - 625
+    - 1065
+  label: 四不知易者不足以言太醫論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d6
+    span:
+    - body
+    - 1065
+    - 1364
+  label: 五問三才所同者於人身何以見之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d7
+    span:
+    - body
+    - 1364
+    - 2658
+  label: 六命門圖說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d8
+    span:
+    - body
+    - 2658
+    - 3117
+  label: 七右腎水火辯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d9
+    span:
+    - body
+    - 3117
+    - 3163
+  label: 八或問七節之傍中有小心或指下第七節命門穴為小心者有以小心為志心者有以小心為少火以少火為相火者
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d10
+    span:
+    - body
+    - 3163
+    - 8622
+  label: 九難經正義三焦評
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3.d10d28
+    span:
+    - body
+    - 8400
+    - 8622
+  label: 附東垣三焦論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d11
+    span:
+    - body
+    - 8622
+    - 9349
+  label: 十問診三焦包絡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d12
+    span:
+    - body
+    - 9349
+    - 9641
+  label: 十一脈義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d13
+    span:
+    - body
+    - 9641
+    - 9936
+  label: 十二問十二支土多十二經火多之義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d14
+    span:
+    - body
+    - 9936
+    - 10054
+  label: 十三問手心主
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d15
+    span:
+    - body
+    - 10054
+    - 10490
+  label: 十四手足經配合臟腑之義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d16
+    span:
+    - body
+    - 10490
+    - 10937
+  label: 十五問五行金木水火土之義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d17
+    span:
+    - body
+    - 10937
+    - 11192
+  label: 十六問心包絡何以不得為藏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d18
+    span:
+    - body
+    - 11192
+    - 11441
+  label: 十七又問右腎既為六臟之一矣何十二經中不以右腎之有形者足其數固乃以手心主當之此其故何哉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d19
+    span:
+    - body
+    - 11441
+    - 11690
+  label: 十八問五行土無定體寄旺四季各一十八日何長夏一月土又獨主之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d20
+    span:
+    - body
+    - 11690
+    - 12099
+  label: 十九問十二經臟腑命名之義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d21
+    span:
+    - body
+    - 12099
+    - 12458
+  label: 二十原呼吸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d22
+    span:
+    - body
+    - 12458
+    - 12931
+  label: 二十一論診法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d23
+    span:
+    - body
+    - 12931
+    - 13487
+  label: 二十二證候推移指法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d24
+    span:
+    - body
+    - 13487
+    - 14864
+  label: 二十三宗氣營氣衛氣說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d25
+    span:
+    - body
+    - 14864
+    - 15263
+  label: 二十四痢與滯下辯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d26
+    span:
+    - body
+    - 15263
+    - 15703
+  label: 二十五噎膈翻胃辯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d27
+    span:
+    - body
+    - 15703
+    - 15997
+  label: 二十六四時脈說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d28
+    span:
+    - body
+    - 15997
+    - 16435
+  label: 二十七問傷寒桂枝湯用桂枝說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d29
+    span:
+    - body
+    - 16435
+    - 17314
+  label: 二十八氣鬱脅痛論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d30
+    span:
+    - body
+    - 17314
+    - 18606
+  label: 二十九論痰為津液脾濕所生亦有因於火因於虛因於氣因於食者而二陳峻利之劑不可以概用也
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d31
+    span:
+    - body
+    - 18606
+    - 18841
+  label: 三十咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d32
+    span:
+    - body
+    - 18841
+    - 19245
+  label: 三十一哮
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d33
+    span:
+    - body
+    - 19245
+    - 19866
+  label: 三十二喘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d34
+    span:
+    - body
+    - 19866
+    - 20112
+  label: 三十三論汗不可純作血看當以氣看為妥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d35
+    span:
+    - body
+    - 20112
+    - 21213
+  label: 三十四論五郁
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d36
+    span:
+    - body
+    - 21213
+    - 22061
+  label: 三十五論嘔血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d37
+    span:
+    - body
+    - 22061
+    - 22138
+  label: 三十六論咳血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d38
+    span:
+    - body
+    - 22138
+    - 22420
+  label: 三十七論齒衄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d39
+    span:
+    - body
+    - 22420
+    - 22758
+  label: 三十八顫振
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d40
+    span:
+    - body
+    - 22758
+    - 24004
+  label: 三十九相火篇
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3.d40d6
+    span:
+    - body
+    - 23058
+    - 24004
+  label: 附丹溪相火篇辯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d41
+    span:
+    - body
+    - 24004
+    - 24105
+  label: 四十泄瀉辯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d42
+    span:
+    - body
+    - 24105
+    - 24561
+  label: 四十一防暑論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d43
+    span:
+    - body
+    - 24561
+    - 25792
+  label: 四十二痿論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d44
+    span:
+    - body
+    - 25792
+    - 26223
+  label: 四十三癲狂癇辯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d45
+    span:
+    - body
+    - 26223
+    - 26967
+  label: 四十四鼻鼽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq028_jc_001-d3d46
+    span:
+    - body
+    - 26967
+    - 27176
+  label: 四十五鼻淵
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 26349
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 513
+  label: 四十六脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d3
+    span:
+    - body
+    - 513
+    - 1299
+  label: 四十七腹中水塊作痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d4
+    span:
+    - body
+    - 1299
+    - 1877
+  label: 四十八治腎消
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d5
+    span:
+    - body
+    - 1877
+    - 2814
+  label: 四十九羅謙甫藥戒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d6
+    span:
+    - body
+    - 2814
+    - 2898
+  label: 五十人經脈上下左右前後二十八脈考
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d7
+    span:
+    - body
+    - 2898
+    - 3180
+  label: 五十一人身有四海說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d8
+    span:
+    - body
+    - 3180
+    - 3852
+  label: 五十二刪定野山秘抄種子論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d9
+    span:
+    - body
+    - 3852
+    - 3972
+  label: 五十三護胎說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d10
+    span:
+    - body
+    - 3972
+    - 5213
+  label: 五十四王節齋本草集要參耆論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d11
+    span:
+    - body
+    - 5213
+    - 5659
+  label: 五十五洗冤錄載沿身骨節上下聯絡名目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d12
+    span:
+    - body
+    - 5659
+    - 5840
+  label: 五十六洗冤錄驗胎法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d13
+    span:
+    - body
+    - 5840
+    - 6512
+  label: 五十七人身內景說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d14
+    span:
+    - body
+    - 6512
+    - 7180
+  label: 五十八不執方說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d15
+    span:
+    - body
+    - 7180
+    - 8996
+  label: 五十九列張劉李朱滑六名師小傳
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d16
+    span:
+    - body
+    - 8996
+    - 11504
+  label: 六十醫通節文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d16d4
+    span:
+    - body
+    - 9095
+    - 9498
+  label: 醫通緒論章
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d16d5
+    span:
+    - body
+    - 9498
+    - 11504
+  label: 藥性裁成
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d17
+    span:
+    - body
+    - 11504
+    - 12069
+  label: 六十一難經本義十八難圖注辯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d18
+    span:
+    - body
+    - 12069
+    - 12373
+  label: 六十二難經肺金肝木浮沉說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d19
+    span:
+    - body
+    - 12373
+    - 12994
+  label: 六十三難經七十五難金不得平木不字辯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d20
+    span:
+    - body
+    - 12994
+    - 13148
+  label: 六十四難經八十一難篇是病二字辯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d21
+    span:
+    - body
+    - 13148
+    - 13363
+  label: 六十五節抄靈樞引
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d22
+    span:
+    - body
+    - 13363
+    - 13956
+  label: 六十六本神篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d23
+    span:
+    - body
+    - 13956
+    - 14252
+  label: 六十七決氣篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d24
+    span:
+    - body
+    - 14252
+    - 14824
+  label: 六十八脹論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d25
+    span:
+    - body
+    - 14824
+    - 15239
+  label: 六十九五癃津液別篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d26
+    span:
+    - body
+    - 15239
+    - 15528
+  label: 七十賊風篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d27
+    span:
+    - body
+    - 15528
+    - 15913
+  label: 七十一五音五味篇婦人無須
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d28
+    span:
+    - body
+    - 15913
+    - 16166
+  label: 七十二憂恚無言篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d29
+    span:
+    - body
+    - 16166
+    - 16450
+  label: 七十三邪客篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d30
+    span:
+    - body
+    - 16450
+    - 16844
+  label: 七十四大惑篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d31
+    span:
+    - body
+    - 16844
+    - 21004
+  label: 七十五十二經絡臟象見證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d32
+    span:
+    - body
+    - 21004
+    - 21649
+  label: 七十六附王好古類集五臟苦欲補瀉藥味
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d32d14
+    span:
+    - body
+    - 21531
+    - 21649
+  label: 臟腑瀉火藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d33
+    span:
+    - body
+    - 21649
+    - 25608
+  label: 七十七附李東垣藥類法象
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d2
+    span:
+    - body
+    - 21660
+    - 21929
+  label: 用藥法象
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d3
+    span:
+    - body
+    - 21929
+    - 21962
+  label: 藥性要旨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d4
+    span:
+    - body
+    - 21962
+    - 22130
+  label: 用藥升降浮沉補瀉法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d5
+    span:
+    - body
+    - 22130
+    - 22147
+  label: 五味所用
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d6
+    span:
+    - body
+    - 22147
+    - 22989
+  label: 藥類法象
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d7
+    span:
+    - body
+    - 22989
+    - 23546
+  label: 標本陰陽論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d8
+    span:
+    - body
+    - 23546
+    - 23918
+  label: 五方之正氣味
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d9
+    span:
+    - body
+    - 23918
+    - 24537
+  label: 隨證治病藥品
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d10
+    span:
+    - body
+    - 24537
+    - 24908
+  label: 用藥凡例
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d11
+    span:
+    - body
+    - 24908
+    - 25048
+  label: 東垣報使
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d33d12
+    span:
+    - body
+    - 25048
+    - 25608
+  label: 十二經嚮導
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4d34
+    span:
+    - body
+    - 25608
+    - 26349
+  label: 七十八本草攻克血積癥瘕及胎產解毒並十八反藥類
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq028_jc_003-d4.d34d56
+    span:
+    - body
+    - 26296
+    - 26349
+  label: 十八反
+  type: section
+  level: 3
+hash: sha256:6e09aa5b3d78859048c65259622574dab9744e45a49af693dfd8d61fee3682b9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
