@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq028/v1
 canonical_location: https://kanripo.org/bkk/KR3eq028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫旨緒餘
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq028_000.yaml, hash: 'sha256:031c5552e7cfc6c60508d041072c465f3454dd5957062f432dd4942c1d315a45'}
-  - {seq: 1, filename: KR3eq028_001.yaml, hash: 'sha256:f97922c0558f6c694652aac69e6ab87e4be0e79c9e09f6504676f80bd131ce92'}
-  - {seq: 3, filename: KR3eq028_003.yaml, hash: 'sha256:6c63a5c7b22e47073e46ab4a7fdb9aa7f9e7ee06042774ce76ce37519f91c10e'}
+  - {seq: 0, filename: KR3eq028_000.yaml, hash: 'sha256:2e833afb95bef8dbf37ad1336b0bde0f505afbb1a8fccd4b99f362703def132c'}
+  - {seq: 1, filename: KR3eq028_001.yaml, hash: 'sha256:3aff6ab21990e8d5918de7be6c5596b206adde7ac140351bbfc535a346aee294'}
+  - {seq: 3, filename: KR3eq028_003.yaml, hash: 'sha256:a29722bd38d7683099c7563e756ff9c01dfc50de0f00e8604b4d33fcaddf256b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq028_000.markers.yaml, hash: 'sha256:17cd27fdb88ac5bf06cb0e21b1a64eb4e24c348ccdf04ae86cec7e30b5bad247'}
-  - {seq: 1, role: markers, filename: assets/KR3eq028_001.markers.yaml, hash: 'sha256:77142b218986f30a021612b797a432965ec22d3a9d5151a0cac1e6325f91fd1f'}
-  - {seq: 3, role: markers, filename: assets/KR3eq028_003.markers.yaml, hash: 'sha256:22268363745656ffe2ea7741aba3869e3cdc32277207668486809428f7371dcd'}
+  - {seq: 0, role: markers, filename: assets/KR3eq028_000.markers.yaml, hash: 'sha256:40693479730c4d961a15bd38bc2d2400b0d30d986ac97d0b43f8390032a41ee9'}
+  - {seq: 1, role: markers, filename: assets/KR3eq028_001.markers.yaml, hash: 'sha256:146d8565a6c58f7f5ecf35c1005649ac270b57c7534efecfbc1dad13cc28b3dd'}
+  - {seq: 3, role: markers, filename: assets/KR3eq028_003.markers.yaml, hash: 'sha256:040a2e7f0d5d51f738a3b7ada538dd51c4ca84703c632fd749ac45a80e13f985'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1005,4 +1005,7 @@ table_of_contents:
   label: 十八反
   type: section
   level: 3
-hash: sha256:b032fba19dcc05a595a04e96accd9cf169093d17043839c185ff39b2a5c6fc96
+hash: sha256:83d3e0eadf961d30f608ef1d537c75996370130e239dd97700bacc17a35956b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
