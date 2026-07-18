@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3eq028_003.yaml, hash: 'sha256:a29722bd38d7683099c7563e756ff9c01dfc50de0f00e8604b4d33fcaddf256b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq028_000.markers.yaml, hash: 'sha256:40693479730c4d961a15bd38bc2d2400b0d30d986ac97d0b43f8390032a41ee9'}
-  - {seq: 1, role: markers, filename: assets/KR3eq028_001.markers.yaml, hash: 'sha256:146d8565a6c58f7f5ecf35c1005649ac270b57c7534efecfbc1dad13cc28b3dd'}
-  - {seq: 3, role: markers, filename: assets/KR3eq028_003.markers.yaml, hash: 'sha256:040a2e7f0d5d51f738a3b7ada538dd51c4ca84703c632fd749ac45a80e13f985'}
+  - {seq: 1, role: markers, filename: assets/KR3eq028_001.markers.yaml, hash: 'sha256:55b1f7ddf153327d9aebb8eb3a3ca7cd5ae67b5378c9942de847b5cd91d3b7dd'}
+  - {seq: 3, role: markers, filename: assets/KR3eq028_003.markers.yaml, hash: 'sha256:47934c104847d7418395e6e29ce697f1c0762766fa7138efd00e040e3829b8a4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1005,7 +1005,7 @@ table_of_contents:
   label: 十八反
   type: section
   level: 3
-hash: sha256:83d3e0eadf961d30f608ef1d537c75996370130e239dd97700bacc17a35956b3
+hash: sha256:062ff80ceef1e0bfe65c3b568fe6de3ba8a104be061b5845eb32a162a5c7463d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
